@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.dark.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+body {
+  background-repeat: no-repeat;
+  background-color: #070e1e;
+  line-height: 1;
+  overflow: hidden;
+}
